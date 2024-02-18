@@ -1,0 +1,17 @@
+p.first{
+    background-color:rgb(236, 118, 167) ;
+    font-size: 15px;
+}
+p.secound{
+    background-color:rgb(236, 118, 167) ;
+    font-size: 25px;
+}
+div.first{
+    color: blue;
+    font-size: 35px;
+}
+div.secound{
+    background-color: green;
+    font-weight: bold;
+    font-size: 25px;
+}
